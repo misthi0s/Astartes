@@ -84,7 +84,7 @@ To decode an Astartes payload, you will need the following items:
 
 1). The encoded payload value (obviously)
 
-2). The seed used during the encoding process **-OR-** the output wordlist generated during the encoding process corresponding to the seed used
+2). The seed used during the encoding process and the master wordlist **-OR-** the output wordlist generated during the encoding process corresponding to the seed used
 
 ---
 ## Decoding Example
