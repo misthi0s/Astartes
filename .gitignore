@@ -1,0 +1,3 @@
+# PyCharm directories
+venv/*
+.idea/*
